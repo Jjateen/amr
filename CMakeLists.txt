@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(telenex_urdf_test)
+project(telenex_ts100)
 
 # Default to C99
 if(NOT CMAKE_C_STANDARD)
